@@ -1,0 +1,38 @@
+﻿.color-bg ,.logo-holder   , .section-title h3 , .st-separator , .st-separator:before , .section-title-icon , .facts-title h3  ,   .section-separator a:before  , .box-popup:before , .featur-carousel-holder .customNavigation a ,  .services-holder li:before , .bg-title:before , .single-slider-holder .customNavigation a  , .btn, .custom-skillbar , .testi-item-text:before  , .testi-item-text:after ,  .nav-inner:before , .resume-box-holder:before  , .resume-box-holder:after , .section-separator span:before , .to-top , .to-top-holder p:before  , .to-top-holder p:after , .footer-social li a , .footer-info h4:before  , .ser-tooltip h5:before , .scroll-nav li a:before , .nav-button span:before , #contact-form input[type="submit"] , .fixed-filter a:before , .vis-filter li a   , .project-decr h3.text-title:before ,  .share-icon  , .fwslider-holder .customNavigation  a , .show-info , .pagination a.current-page  , .pagination a:hover , .post-tags a:hover  , .fwslider-holder .owl-dots .owl-dot.active span:before , .halig-center h4:before  , .ser-carous-holder .customNavigation a , .scroll-nav-btn , .controls button , .scroll-nav li a.act-link{
+	background:#000;
+}
+.scroll-nav-holder nav li a:hover , .nav-inner nav a.curpage  , .social-item a i  , .grid-item span  ,.box-popup i ,  .text-title span , .testi-item-text a , #twitter-feed li a , .footer-contacts li a  i , .price , .contact-info ul li a i , .skills-description , .services-box h3 , .accordion-title i , .pr-list li span , .project-pagination ul li a , .post-link , .post-meta i , .search-submit , .hero-title h4 a:hover , .abl , #success_page p strong , #success_page h3 , .nav-inner nav li.subnav:hover i.subnavicon{
+	color:#FFC815;
+}
+.loader {
+	border-top: 10px solid  #FFC815;
+	border-right: 10px solid #FFC815;
+	border-bottom: 10px solid #FFC815;
+}
+.facts-title h3:before {
+	border-color: transparent transparent transparent #FFC815;
+}
+.section-title h3:before {
+	border-color: transparent #FFC815 transparent transparent;
+}
+.tooltip h5 {
+	border-top:2px solid #FFC815
+}
+.fw-title {
+	border-bottom:4px solid #FFC815
+}
+.hero-wrap {
+	border-left:4px solid #FFC815;
+}
+.halig-right .hero-wrap {
+	border-right:4px solid #FFC815;
+	border-left:none;
+}
+@media only screen and  (max-width: 1036px) {
+.scroll-nav li a.act-link {
+	color:#FFC815;
+}
+.hero-title h4:before {
+	background:#FFC815;
+}
+}
